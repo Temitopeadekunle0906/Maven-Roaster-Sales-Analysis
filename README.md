@@ -3,17 +3,17 @@
 An Excel project that aims to provide Maven Roasters, a fictitious coffee shop operating across three locations in New York City, with actionable insights. These insights are intended to inform strategic decisions and optimize Maven Roasters' overall operational effectiveness
 
 ## Table of Content
-- [Project Overview](https://github.com/Temitopeadekunle0906/Maven-Roasters-Sales-Analysis#project-overview)
-- [Project Scope](https://github.com/Temitopeadekunle0906/Maven-Roasters-Sales-Analysis#project-scope)
-- [Buisness Objective](https://github.com/Temitopeadekunle0906/Maven-Roasters-Sales-Analysis#business-objective)
-- [Document Purpose](https://github.com/Temitopeadekunle0906/Maven-Roasters-Sales-Analysis#document-purpose)
-- [Use Case](https://github.com/Temitopeadekunle0906/Maven-Roasters-Sales-Analysis#use-case)
-- [Data Source](https://github.com/Temitopeadekunle0906/Maven-Roasters-Sales-Analysis#data-source)
-- [Data Cleaning and Processing](https://github.com/Temitopeadekunle0906/Maven-Roasters-Sales-Analysis#data-cleaning-and-processing)
-- [Data Analysis](https://github.com/Temitopeadekunle0906/Maven-Roasters-Sales-Analysis#data-analysis-and-insight)
-- [Data Visualization](https://github.com/Temitopeadekunle0906/Maven-Roasters-Sales-Analysis#data-visualization)
-- [Recommendation](https://github.com/Temitopeadekunle0906/Maven-Roasters-Sales-Analysis#recommendation)
-- [Conclusion](https://github.com/Temitopeadekunle0906/Maven-Roasters-Sales-Analysis#conclusion)
+- [Project Overview]
+- [Project Scope]
+- [Buisness Objective]
+- [Document Purpose]
+- [Use Case]
+- [Data Source]
+- [Data Cleaning and Processing]
+- [Data Analysis]
+- [Data Visualization]
+- [Recommendation]
+- [Conclusion]
 
 ## Project Overview
 

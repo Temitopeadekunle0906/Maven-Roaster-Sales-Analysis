@@ -3,17 +3,17 @@
 An Excel project that aims to provide Maven Roasters, a fictitious coffee shop operating across three locations in New York City, with actionable insights. These insights are intended to inform strategic decisions and optimize Maven Roasters' overall operational effectiveness
 
 ## Table of Content
-- [Project Overview]
-- [Project Scope]
-- [Buisness Objective]
-- [Document Purpose]
-- [Use Case]
-- [Data Source]
-- [Data Cleaning and Processing]
-- [Data Analysis]
-- [Data Visualization]
-- [Recommendation]
-- [Conclusion]
+- Project Overview
+- Project Scope
+- Buisness Objective
+- Document Purpose
+- Use Case
+- Data Source
+- Data Cleaning and Processing
+- Data Analysis
+- Data Visualization
+- Recommendation
+- Conclusion
 
 ## Project Overview
 
